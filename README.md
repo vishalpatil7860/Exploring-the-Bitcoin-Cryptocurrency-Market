@@ -4,3 +4,4 @@ Since the launch of Bitcoin in 2008, hundreds of similar projects based on the b
 
 We will start with a CSV we conveniently downloaded on the 6th of December of 2017 using the coinmarketcap API (NOTE: The public API went private in 2020 and is no longer available) named datasets/coinmarketcap_06122017.csv.
 
+This Project contains the jupyter notebook where we have explored and analysed the different cryptocurrencies and market capitalizations.
